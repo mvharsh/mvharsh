@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Harshini 😊
 - 🌱 I’m currently learning Integrated Data Science course
-- 👀 I’m interested in Machine Learning and Deep Learning 
+<!--- 
+👀 I’m interested in Machine Learning and Deep Learning 
 - 📫 You can find me on Linkedin
-
+--->
 
 
 <!---
