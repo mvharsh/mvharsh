@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Integrated Data Science Course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mvharsh](https://github.com/mvharsh)
+<!--- 👨‍💻 All of my projects are available at [https://github.com/mvharsh](https://github.com/mvharsh)
 
-- 📫 How to reach me **harshiniv@student.tce.edu**
+- 📫 How to reach me **harshiniv@student.tce.edu** --->
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/harshini-v-74b052249/](https://www.linkedin.com/in/harshini-v-74b052249/)
 
