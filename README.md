@@ -9,10 +9,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/harshini-v-74b052249/](https://www.linkedin.com/in/harshini-v-74b052249/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshini-v-74b052249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshini-v-74b052249" height="30" width="40" /></a>
-</p>
 
 <!--- 
 👀 I’m interested in Machine Learning and Deep Learning 
