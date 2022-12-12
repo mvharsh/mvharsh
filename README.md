@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshini</h1>
-<h3 align="center">A passionate Future Data Scientist 😎</h3>
+<h3 align="center">A passionate Future Data Scientist 😎<img align="right" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"></h3>
 
 - 🌱 I’m currently learning **Integrated Data Science Course**
 
