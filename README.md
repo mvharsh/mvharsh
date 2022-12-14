@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshini</h1>
 <h3 align="center">A passionate Future Data Scientist 😎<img align="right" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" max-width="200" height="200"></h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mvharsh&label=Profile%20views&color=0e75b6&style=flat" alt="mvharsh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mvharsh&label=Profile%20views&color=f81894&style=flat" alt="mvharsh" /> </p>
 
-
+<!--0e75b6-->
 - 🌱 I’m currently learning **Integrated Data Science Course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mvharsh](https://github.com/mvharsh)
