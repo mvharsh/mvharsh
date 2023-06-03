@@ -15,7 +15,7 @@
 <p>
 <a href="https://linkedin.com/in/harshini-v-74b052249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshini-v-74b052249" height="30" width="40" /></a> 
 <a href="https://www.sololearn.com/profile/24069672" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" height="40" width="40" /></a>
-<a href="https://github.com/mvharsh/672" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" width="40" /></a>
+<a href="https://github.com/mvharsh/" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/harshinivivekm?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="40" width="40" /></a> 
 <a href="https://leetcode.com/harshiniv/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/vharshini" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="40" width="40" /></a>
