@@ -5,11 +5,12 @@
 <!--0e75b6-->
 - 🌱 I’m currently learning **Integrated Data Science Course**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mvharsh](https://github.com/mvharsh)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/mvharsh)
 
 <!--📫 How to reach me **harshiniv@student.tce.edu** --->
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/harshini-v-74b052249/](https://www.linkedin.com/in/harshini-v-74b052249/)
+- 📄 Know about my experiences at [Linkedin](https://www.linkedin.com/in/harshini-v-74b052249/)
+
 
 <br></br>
 <h3 align="left">Find me on:</h3>
