@@ -15,7 +15,7 @@
 <br></br>
 <h3 align="left">Find me on:</h3>
 <p>
-<a href="https://linkedin.com/in/harshini-v-74b052249" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="harshini-v-74b052249" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/harshini-v-74b052249" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="harshini-v-74b052249" height="40" width="40" /></a> 
 <a href="https://www.sololearn.com/profile/24069672" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" height="40" width="40" /></a>
 <a href="https://github.com/mvharsh/" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/harshinivivekm?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="40" width="40" /></a> 
