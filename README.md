@@ -1,3 +1,5 @@
+<img width="1000" alt="image" src="https://github.com/mvharsh/mvharsh/assets/111365320/49cf8561-979c-4b51-8edd-d808af2759fa">
+
 <h1 align="center">Hi👋🏻, I'm Harshini</h1>
 
 <h3 align="center">A passionate Future Data Scientist 😎<img align="right" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" max-width="200" height="200"></h3>
