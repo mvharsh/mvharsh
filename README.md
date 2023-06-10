@@ -31,18 +31,24 @@
 </p>
 <br/> 
 
-<h3 align="left">My Skills:</h3>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<h3 align="left">Tools and Languages:</h3>
+<p> 
+<img height=52 src="https://cdn.worldvectorlogo.com/logos/c-1.svg"/> &nbsp;
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/c.svg"/> &nbsp;
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height=50 src="https://cdn2.iconfinder.com/data/icons/coding-and-development-outline/60/SQL-Database-programming-developer-software-query-language-1024.png"/> &nbsp;
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/xampp.svg"/> &nbsp;
+<br/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> &nbsp;
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/office-2.svg"/> &nbsp;
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> </p>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-<p></br></p>
 -->
+
 <h3 align="left">Github Stats:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact" alt="mvharsh" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mvharsh&theme=buefy&show_icons=true" alt="mvharsh" max-width="175" height="165" /></p>
