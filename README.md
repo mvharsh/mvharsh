@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mvharsh)
 
-- 📄 Know about my experiences at [Linkedin](https://www.linkedin.com/in/harshini-v-74b052249/)
+- 📄 Know about my experiences at [Linkedin](https://www.linkedin.com/in/harshini-vivek/)
 
 <!--
 
