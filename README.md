@@ -1,6 +1,6 @@
-
+<!--
 <img width="1000" alt="image" src="https://github.com/mvharsh/mvharsh/assets/111365320/49cf8561-979c-4b51-8edd-d808af2759fa">
-
+-->
 
 <h1 align="center">Hi👋🏻, I'm Harshini</h1>
 
@@ -17,7 +17,7 @@
 - 📩 Reach me through harshinivivekm@gmail.com
 <br></br>
 
-
+<!--
 <h3 align="left">Find me on:</h3>
 <p>
 <a href="https://linkedin.com/in/harshini-vivek/" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="harshini-vivek" height="40" width="40" /></a> 
@@ -47,12 +47,9 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
 <img height=50 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> </p>
 <br />
-
+-->
 
 <h3 align="left">Github Stats:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact" alt="mvharsh" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mvharsh&theme=buefy&show_icons=true" alt="mvharsh" max-width="175" height="165" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&" alt="mvharsh" /></p>
-
-
-
