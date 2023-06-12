@@ -53,3 +53,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact" alt="mvharsh" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mvharsh&theme=buefy&show_icons=true" alt="mvharsh" max-width="175" height="165" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&" alt="mvharsh" /></p>
+
+<!--
+<p><img src="https://github-profile-trophy.vercel.app/?username=mvharsh&row=2&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="mvharsh" /></p>
+-->
