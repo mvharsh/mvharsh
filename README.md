@@ -9,6 +9,8 @@
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
+-  🔭 Immersing myself in the limitless horizons of programming
+
 - 🌱 I’m currently learning **Integrated Data Science Course**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mvharsh)
@@ -38,7 +40,7 @@
 <img height=50 src="https://cdn.worldvectorlogo.com/logos/c.svg"/> &nbsp;
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height=50 src="https://cdn2.iconfinder.com/data/icons/coding-and-development-outline/60/SQL-Database-programming-developer-software-query-language-1024.png"/> &nbsp; <br />
+<img height=50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOA0aKeXOzoW3f8cc4S8Kx4piOE6BHhryGYBikEdw1Tg&usqp=CAU&ec=48665699"/> &nbsp; <br />
 <!-- <img height=50 src="https://cdn.worldvectorlogo.com/logos/xampp.svg"/> &nbsp;
 <br/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -51,8 +53,8 @@
 <h3 align="left">📊 Github Stats:</h3> <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p> -->
 <p><img src="https://github-profile-trophy.vercel.app/?username=mvharsh&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="mvharsh" /></p> 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact" alt="mvharsh" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mvharsh&theme=buefy&show_icons=true" alt="mvharsh" max-width="175" height="165" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&" alt="mvharsh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact&no-bg=true" alt="mvharsh" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mvharsh&theme=buefy&show_icons=true&no-bg=true" alt="mvharsh" max-width="175" height="165" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&no-bg=true" alt="mvharsh" /></p>
 
 
 
