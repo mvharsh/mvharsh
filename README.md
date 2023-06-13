@@ -40,15 +40,15 @@
 <img height=50 src="https://cdn.worldvectorlogo.com/logos/c.svg"/> &nbsp;
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height=50 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOA0aKeXOzoW3f8cc4S8Kx4piOE6BHhryGYBikEdw1Tg&usqp=CAU&ec=48665699"/> &nbsp; <br />
+<img height=50 src="https://img.icons8.com/color/96/000000/sql.png"/> &nbsp; <br />
 <!-- <img height=50 src="https://cdn.worldvectorlogo.com/logos/xampp.svg"/> &nbsp;
 <br/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> &nbsp;
+<!-- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
+<img height=50 src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-1024.png"/> &nbsp;
 <img height=50 src="https://cdn.worldvectorlogo.com/logos/office-2.svg"/> &nbsp;
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-<img height=50 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> </p> -->
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> </p> 
 
 <h3 align="left">📊 Github Stats:</h3> <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p> -->
