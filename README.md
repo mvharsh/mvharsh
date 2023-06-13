@@ -53,16 +53,8 @@
 <h3 align="left">📊 Github Stats:</h3> <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p> -->
 <p><img src="https://github-profile-trophy.vercel.app/?username=mvharsh&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="mvharsh" /></p> 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact&no-bg=true" alt="mvharsh" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mvharsh&theme=buefy&show_icons=true&no-bg=true" alt="mvharsh" max-width="175" height="165" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&no-bg=true" alt="mvharsh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact&no-bg=true&theme=transparent" alt="mvharsh" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mvharsh&show_icons=true&no-bg=true&theme=transparent" alt="mvharsh" max-width="175" height="165" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&no-bg=true&theme=transparent" alt="mvharsh" /></p>
 
-<!-- Line 1: Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact&theme=light&no-frame=true" alt="mvharsh" /> 
-
-<!-- Line 2: GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=mvharsh&theme=light&show_icons=true&no-frame=true" alt="mvharsh" style="max-width: 175px; height: 165px;" />
-
-<!-- Line 3: GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&theme=light&no-frame=true" alt="mvharsh" />
 
 
