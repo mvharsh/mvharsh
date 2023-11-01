@@ -21,7 +21,7 @@
 <br></br>
 
 <!--
-<h3 align="left">Find me on:</h3>
+<h3 align="left">🔎 Find me on:</h3>
 <p>
 <a href="https://linkedin.com/in/harshini-vivek/" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="harshini-vivek" height="40" width="40" /></a> 
 <a href="https://www.sololearn.com/profile/24069672" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" height="40" width="40" /></a>
@@ -34,17 +34,17 @@
 </p>
 <br/> 
 -->
+
 <h3 align="left">⚙️ Tools and Languages:</h3>
 <p> 
 <img height=52 src="https://cdn.worldvectorlogo.com/logos/c-1.svg"/> &nbsp;
 <img height=50 src="https://cdn.worldvectorlogo.com/logos/c.svg"/> &nbsp;
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height=50 src="https://img.icons8.com/color/96/000000/sql.png"/> &nbsp; <br />
-<!-- <img height=50 src="https://cdn.worldvectorlogo.com/logos/xampp.svg"/> &nbsp;
-<br/>
-<!-- <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
+<img height=50 src="https://img.icons8.com/color/96/000000/sql.png"/> &nbsp; 
+<img height=50 src="https://cdn.worldvectorlogo.com/logos/xampp.svg"/> &nbsp; <br/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
 <img height=50 src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-1024.png"/> &nbsp;
 <img height=50 src="https://cdn.worldvectorlogo.com/logos/office-2.svg"/> &nbsp;
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
