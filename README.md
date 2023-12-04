@@ -6,6 +6,11 @@
 <h3 align="center">A passionate Future Data Scientist 😎<img align="right" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" max-width="200" height="200"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvharsh&label=Profile%20views&color=f81894&style=flat" alt="mvharsh" /> </p>
+  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-vivek/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshinivivekm@gmail.com)
+[![Github](https://img.shields.io/github/followers/mvharsh?label=Follow&style=social)](https://github.com/mvharsh)
+<!--[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)-->
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
@@ -20,20 +25,21 @@
 - 📩 Reach me through harshinivivekm@gmail.com
 <br></br>
 
-<!--
+
 <h3 align="left">🔎 Find me on:</h3>
 <p>
-<a href="https://linkedin.com/in/harshini-vivek/" target="blank"><img align="center" src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="harshini-vivek" height="40" width="40" /></a> 
-<a href="https://www.sololearn.com/profile/24069672" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" height="40" width="40" /></a>
-<a href="https://github.com/mvharsh/" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/harshinivivekm?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="40" width="40" /></a> &nbsp;
-<a href="https://www.hackerearth.com/@harshini441" target="blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" height="40" width="40" /></a> 
-<a href="https://leetcode.com/harshiniv/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/vharshini" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" height="40" width="40" /></a>
-<a href="https://www.coursera.org/user/0f29e12c5b141a955f0c08a8b7398f3b" target="blank"><img align="center" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/harshini-vivek/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="harshini-vivek" height="50" width="50" /></a> 
+<a href="https://www.sololearn.com/profile/24069672" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" height="50" width="50" /></a>
+<a href="https://github.com/mvharsh/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/harshinivivekm?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="50" width="50" /></a> &nbsp;
+<a href="https://www.hackerearth.com/@harshini441" target="blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png" height="50" width="50" /></a> 
+<a href="https://leetcode.com/harshiniv/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/22051833/harshini" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="50" width="50" /></a>
+<a href="https://medium.com/@harshinivivekm" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="50" width="50" /></a>
+<a href="https://www.coursera.org/user/0f29e12c5b141a955f0c08a8b7398f3b" target="blank"><img align="center" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1" height="50" width="50" /></a>
 </p>
 <br/> 
--->
+
 
 <h3 align="left">⚙️ Tools and Languages:</h3>
 <p> 
@@ -55,6 +61,13 @@
 <p><img src="https://github-profile-trophy.vercel.app/?username=mvharsh&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="mvharsh" /></p> 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact&no-bg=true&theme=transparent" alt="mvharsh" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mvharsh&show_icons=true&no-bg=true&theme=transparent" alt="mvharsh" max-width="175" height="165" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&no-bg=true&theme=transparent" alt="mvharsh" /></p>
+
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvharsh&theme=transparent" alt="mvharsh" /></p>
+
+
+
+
+
 
 
 
