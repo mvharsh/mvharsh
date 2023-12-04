@@ -25,7 +25,7 @@
 - 📩 Reach me through harshinivivekm@gmail.com
 <br></br>
 
-
+<!--
 <h3 align="left">🔎 Find me on:</h3>
 <p>
 <a href="https://linkedin.com/in/harshini-vivek/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="harshini-vivek" height="50" width="50" /></a> 
@@ -39,7 +39,7 @@
 <a href="https://www.coursera.org/user/0f29e12c5b141a955f0c08a8b7398f3b" target="blank"><img align="center" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1" height="50" width="50" /></a>
 </p>
 <br/> 
-
+-->
 
 <h3 align="left">⚙️ Tools and Languages:</h3>
 <p> 
