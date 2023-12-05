@@ -6,10 +6,11 @@
 <h3 align="center">A passionate Future Data Scientist 😎<img align="right" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" max-width="200" height="200"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvharsh&label=Profile%20views&color=f81894&style=flat" alt="mvharsh" /> </p>
-  
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-vivek/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshinivivekm@gmail.com)
 [![Github](https://img.shields.io/github/followers/mvharsh?label=Follow&style=social)](https://github.com/mvharsh)
+
 <!--[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)-->
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
@@ -40,21 +41,29 @@
 </p>
 <br/> 
 -->
+<!--
+<h3 align="left">⚙️ Tech Stack:</h3>
 
-<h3 align="left">⚙️ Tools and Languages:</h3>
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+-->
+<h3 align="left">📄 Languages:</h3>
 <p> 
 <img height=52 src="https://cdn.worldvectorlogo.com/logos/c-1.svg"/> &nbsp;
 <img height=50 src="https://cdn.worldvectorlogo.com/logos/c.svg"/> &nbsp;
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height=50 src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" />
+<img height=50 src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" /> 
+<img height=40 src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />  &nbsp
 <img height=50 src="https://img.icons8.com/color/96/000000/sql.png"/> &nbsp; 
-<img height=50 src="https://cdn.worldvectorlogo.com/logos/xampp.svg"/> &nbsp; <br/>
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-<img height=50 src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-1024.png"/> &nbsp;
-<img height=50 src="https://cdn.worldvectorlogo.com/logos/office-2.svg"/> &nbsp;
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
-<img height=50 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> </p> 
+  
+<h3 align="left">⚙️ Tools:</h3>
+
+<img height=35 src="https://cdn.worldvectorlogo.com/logos/xampp.svg"/> &nbsp; 
+<img height=40 src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-1024.png"/> &nbsp;
+<img height=40 src="https://cdn.worldvectorlogo.com/logos/office-2.svg"/> &nbsp;
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+<img height=40 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> </p> 
 
 <h3 align="left">📊 Github Stats:</h3> <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p> -->
