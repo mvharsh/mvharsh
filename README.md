@@ -65,6 +65,13 @@
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
 <img height=40 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> </p> 
 
+<!--
+<h3 align="left">📊 Leetcode Stats:</h3>
+<p align="left">
+  <img src="https://leetcode-stats.vercel.app/api?username=harshiniv" alt="LeetCode Scoreboard" />
+</p>
+-->
+
 <h3 align="left">📊 Github Stats:</h3> <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p> -->
 <p><img src="https://github-profile-trophy.vercel.app/?username=mvharsh&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="mvharsh" /></p> 
