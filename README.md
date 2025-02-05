@@ -28,7 +28,7 @@
 
 <h3 align="left">🔎 Find me on:</h3>
 <p>
-<a href="https://linkedin.com/in/harshini-vivek/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="harshini-vivek" height="50" width="50" /></a> 
+<a href="https://linkedin.com/in/harshini-vivek/" ><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="harshini-vivek" height="50" width="50" target="_blank"/></a> 
 <a href="https://leetcode.com/harshiniv/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" height="50" width="50" /></a>
 <a href="https://github.com/mvharsh/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" height="50" width="50" /></a>
 <a href="https://www.hackerrank.com/harshinivivekm?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="50" width="50" /></a> &nbsp;
