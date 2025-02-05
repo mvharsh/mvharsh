@@ -30,12 +30,12 @@
 <p>
 <a href="https://linkedin.com/in/harshini-vivek/" ><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="harshini-vivek" height="50" width="50" target="_blank"/></a> 
 <a href="https://leetcode.com/harshiniv/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" height="50" width="50" /></a>
-<a href="https://github.com/mvharsh/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/harshinivivekm?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="50" width="50" /></a> &nbsp;
-<a href="https://www.hackerearth.com/@harshini441" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" height="50" width="50" /></a> 
+<a href="https://github.com/mvharsh/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" height="50" width="50" /></a>  &nbsp;
+<a href="https://www.hackerrank.com/harshinivivekm?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" height="50" width="50" /></a>
 <a href="https://www.sololearn.com/profile/24069672" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" height="50" width="50" /></a>
 <a href="https://medium.com/@harshinivivekm" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" height="50" width="50" /></a>
 <!--
+<a href="https://www.hackerearth.com/@harshini441" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" height="50" width="50" /></a> 
 <a href="https://stackoverflow.com/users/22051833/harshini" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height="50" width="50" /></a>
 <a href="https://www.coursera.org/user/0f29e12c5b141a955f0c08a8b7398f3b" target="blank"><img align="center" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1" height="50" width="50" /></a>
 -->
