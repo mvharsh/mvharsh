@@ -15,16 +15,48 @@
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
--  🔭 Immersing myself in the limitless horizons of programming
+## 👋 Hey there! I'm **Harshini V** 👩‍💻  
 
-- 🌱 I’m currently learning **Integrated Data Science Course**
+🔍 **Aspiring Data Scientist | AI & ML Enthusiast | Problem Solver**  
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/mvharsh)
+💡 Passionate about **Machine Learning 🤖, Data Science 📊, and AI-powered solutions 🚀**  
+🛠️ Skilled in **Python 🐍, C++, Java ☕, SQL 💾, and Web Dev 🌐**  
+📊 Love working with **Power BI 📉, Tableau 📈, and Big Data**  
 
-- 📄 Know about my experiences at [Linkedin](https://www.linkedin.com/in/harshini-vivek/)
+### 💻 What I Build:  
+🔹 AI-driven **predictive models** 🤖  
+🔹 **Recommendation systems** 📚🎬  
+🔹 **Database management** & Web apps 🌍💻  
 
-- 📩 Reach me through harshinivivekm@gmail.com
-<br>
+🏆 **Hackathon Enthusiast & Award Winner** 🏅  
+📝 **Published Author** in AI & ML Research 📚  
+
+🚀 Always exploring new technologies, optimizing models, and building cool stuff!  
+
+📫 **Let's Connect!**  
+🔗 [LinkedIn](https://linkedin.com/in/harshini-vivek) | 🏗️ [GitHub](https://github.com/mvharsh)  
+
+💡 *"Turning data into insights, one model at a time!"*  
+
+---  
+
+## 📚 Publications  
+
+📖 **Strategies to Enhance Web-Based Learning** (Dec ’22 - Jan ’23)  
+🔹 *Published in*: **Research and Reflections on Education (UGC Care Approved)**  
+🔹 *Presented at*: **International Conference on Emerging Trends in Online Teaching Assessment and Learning (eTOTAL)**  
+🔗 [Read More](https://www.sxcejournal.com/spe-apr-2023/31.pdf)  
+
+📖 **Alzheimer's Diagnosis Using Machine Learning** (Jan ’24 - Mar ’24)  
+🔹 *Published in*: **IGI Global**  
+🔹 *Focus*: Leveraging AI & Deep Learning for enhanced prediction and understanding.  
+🔗 [Read More](https://www.igi-global.com/chapter/alzheimers-diagnosis/351601)  
+
+📖 **Transforming Rice Agriculture with AI** (Feb ’24 - May ’24) *(Under Review)*  
+🔹 *Publisher*: **CRC Press, Taylor & Francis Group, USA**  
+🔹 *Focus*: Integrated mobile application for **automated classification, disease prediction, and crop health assessment**.  
+
+---  
 
 <h3 align="left">🔎 Find me on:</h3>
 <p>
@@ -87,7 +119,8 @@
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
 <img height=40 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> &nbsp;
 </p>
-<br>
+
+---  
 
 <h3 align="left">📊 Leetcode Stats:</h3>
 <p align="left">
@@ -95,6 +128,7 @@
   <!-- ![](https://leetcard.jacoblin.cool/harshiniv?animation=false) -->
 </p>
 
+---  
 
 <h3 align="left">📊 Github Stats:</h3> <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p> -->
