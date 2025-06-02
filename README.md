@@ -7,11 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvharsh&label=Profile%20views&color=f81894&style=flat" alt="mvharsh" /> </p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshini-vivek/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-FF4B4B?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshini-vivek.github.io/harshinivivek.io/)](https://harshini-vivek.github.io/harshinivivek.io/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=InVision&logoColor=white)](https://www.linkedin.com/in/harshini-vivek/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshinivivekm@gmail.com)
 [![Github](https://img.shields.io/github/followers/mvharsh?label=Follow&style=social)](https://github.com/mvharsh)
-
-<!--[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)-->
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
@@ -19,44 +18,16 @@
 
 🔍 **Aspiring Data Scientist | AI & ML Enthusiast | Problem Solver**  
 
-💡 Passionate about **Machine Learning 🤖, Data Science 📊, and AI-powered solutions 🚀**  
-🛠️ Skilled in **Python 🐍, C++, Java ☕, SQL 💾, and Web Dev 🌐**  
-📊 Love working with **Power BI 📉, Tableau 📈, and Big Data**  
+### 💡 My Key Skills
 
-### 💻 What I Build:  
-🔹 AI-driven **predictive models** 🤖  
-🔹 **Recommendation systems** 📚🎬  
-🔹 **Database management** & Web apps 🌍💻  
+- 🧠 **Data Science & ML:** Machine Learning, Deep Learning, NLP, CNN, Predictive Analytics, Applied Statistics
+- 💻 **Programming:** Python, C, C++, Java, JavaScript
+- 🎨 **Web Development:** HTML, CSS, JavaScript, Streamlit, Plotly Dash, Flask, Django
+- 📊 **Data Visualization:** Excel, Tableau, Power BI, Plotly
+- 🗃️ **Database Management:** MySQL, MongoDB, Xampp
+- 🛠️ **Tools & Technologies:** Docker, Git, GitHub, Databricks
 
-🏆 **Hackathon Enthusiast & Award Winner** 🏅  
-📝 **Published Author** in AI & ML Research 📚  
-
-🚀 Always exploring new technologies, optimizing models, and building cool stuff!  
-
-📫 **Let's Connect!**  
-🔗 [LinkedIn](https://linkedin.com/in/harshini-vivek) | 🏗️ [GitHub](https://github.com/mvharsh)  
-
-💡 *"Turning data into insights, one model at a time!"*  
-
----  
-
-## 📚 Publications  
-
-📖 **Strategies to Enhance Web-Based Learning** (Dec ’22 - Jan ’23)  
-🔹 *Published in*: **Research and Reflections on Education (UGC Care Approved)**  
-🔹 *Presented at*: **International Conference on Emerging Trends in Online Teaching Assessment and Learning (eTOTAL)**  
-🔗 [Read More](https://www.sxcejournal.com/spe-apr-2023/31.pdf)  
-
-📖 **Alzheimer's Diagnosis Using Machine Learning** (Jan ’24 - Mar ’24)  
-🔹 *Published in*: **IGI Global**  
-🔹 *Focus*: Leveraging AI & Deep Learning for enhanced prediction and understanding.  
-🔗 [Read More](https://www.igi-global.com/chapter/alzheimers-diagnosis/351601)  
-
-📖 **Transforming Rice Agriculture with AI** (Feb ’24 - May ’24) *(Under Review)*  
-🔹 *Publisher*: **CRC Press, Taylor & Francis Group, USA**  
-🔹 *Focus*: Integrated mobile application for **automated classification, disease prediction, and crop health assessment**.  
-
----  
+I’m always curious, ready to learn, and eager to contribute to exciting projects! 🌟
 
 <h3 align="left">🔎 Find me on:</h3>
 <p>
@@ -93,8 +64,57 @@
 <img height=50 src="https://img.icons8.com/color/96/000000/sql.png"/> &nbsp; 
 </p>
 
-
 ### ⚙️ Tools:
+
+<p align="left">
+
+  <!-- Core Data Science & ML -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3781AB?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+
+  <!-- Data Analysis / Notebooks -->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white" />
+
+  <!-- Data Engineering & Big Data -->
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+
+  <!-- Visualization / Dashboarding -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+
+  <!-- Dev & Tools -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=XAMPP&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+  <!-- Collaboration / Extra Tools -->
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+</p>
+
+<!--
 <p align="left">
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> &nbsp;
 <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/128px-Google_Colaboratory_SVG_Logo.svg.png"/> &nbsp;
@@ -118,9 +138,98 @@
 <img height=40 src="https://cdn.worldvectorlogo.com/logos/office-2.svg"/> &nbsp;
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
 <img height=40 src="https://cdn.worldvectorlogo.com/logos/oracle-1.svg"/> &nbsp;
-</p>
+</p> -->
+
+---
+
+### 🏆 Achievements
+
+- 🥈 Second Place in Idea Harvest 2024 at Thiagarajar College of Engineering
+- 🥈 Second Place in Madurai Hackathon 2023 at Thiagarajar College of Engineering (Rs. 25,000 cash prize)
+- 🥉 Third Place in Madurai Hackathon 2022 at Solamalai College of Engineering (Rs. 12,000 cash prize)
+- 🏅 Academic Topper (I – VI semesters) in MSc Data Science (2021-2024)
+- 🥇 First Prize in Poster Presentation Contest, TECHUTSAV ‘22
+- 🥈 Second Prize in Machine Learning Contest, 2023-2024
+- 🥉 Third Prize in Paper Presentation, 2023-2024
+- 🏅 Winner in Mathematical & Statistical Research Contest, 2023-2024
+- 🏅 Education Minister (School Cabinet) and Best Outgoing Student, 2020-2021
+
+---
+
+### 📚 Publications  
+
+📖 **Strategies to Enhance Web-Based Learning** (Dec ’22 - Jan ’23)  
+🔹 *Published in*: **Research and Reflections on Education (UGC Care Approved)**  
+🔹 *Presented at*: **International Conference on Emerging Trends in Online Teaching Assessment and Learning (eTOTAL)**  
+🔗 [Read More](https://drive.google.com/file/d/1eBTRgsWyWB5H7P8febVS0LKCOYGLbf5N/view?pli=1)  
+
+📖 **Alzheimer's Diagnosis Using Machine Learning** (Jan ’24 - Mar ’24)  
+🔹 *Published in*: **IGI Global**  
+🔹 *Focus*: Leveraging AI & Deep Learning for enhanced prediction and understanding.  
+🔗 [Read More](https://www.igi-global.com/chapter/alzheimers-diagnosis/351601)  
+
+📖 **Transforming Rice Agriculture with AI** (Feb ’24 - May ’24) *(Under Review)*  
+🔹 *Publisher*: **CRC Press, Taylor & Francis Group, USA**  
+🔹 *Focus*: Integrated mobile application for **automated classification, disease prediction, and crop health assessment**.  
 
 ---  
+
+### 🎓 Certifications 📜
+
+- 🧠 **Deep Learning A-Z 2024** (Udemy)
+- 🐍 **Python for Data Science and Machine Learning Bootcamp** (Udemy)
+- 🌐 **Introduction to Web Development with HTML, CSS, JavaScript** (IBM - Coursera)
+- 🤖 **Artificial Intelligence for All** (IUCEE)
+- 📈 **Introduction to Machine Learning** (NPTEL - IIT Madras)
+- 🐍 **Python for Data Science, AI & Development** (IBM - Coursera)
+- 📊 **Data Science Math Skills** (Duke University - Coursera)
+- 🐍 **Python for Data Science** (NPTEL - IIT Madras)
+- 💻 **Programming Fundamentals** (Duke University - Coursera)
+
+---
+### 🛠️ Workshops & Events 📅
+
+- 💡 **DRDO Workshop on Explainable AI (XAI)**, AMCS, TCE (Dec 2024)
+- 💻 **CAT Hackathon 24**, Caterpillar, TCE (Jun 2024)
+- 🌟 **Idea Harvest 2024**, E-Cell, TCE (Mar 2024)
+- 🧠 **Machine Learning & Data Science**, NIT Trichy (Jun 2023)
+- 📐 **Linear Algebra for CS & ML**, NPTEL (Nov 2022)
+- 👩‍💻 **36 Hrs Hackathon – Battle of Brackets**, TCE (Mar 2023)
+- 📶 **IoT Expo ’23**, TCE (Apr 2023)
+- ☁️ **IBM Cloud** Webinar Series (Sep 2022)
+
+---  
+
+### 💻 Projects
+
+Here’s a showcase of some of my key projects:
+
+- 💳 **[Credit Card Offer Acceptance Prediction](https://github.com/mvharsh/Credit-Card-Offer-Acceptance-Prediction)**  
+  Using SHAP, Fairlearn, and AIF360 to build an ethically-aware deep learning model.
+
+- 📈 **[Reliance Trends Sales Analytics & Forecasting Dashboard](https://github.com/mvharsh/Trends-Forecasting-Dashboard)**  
+  A Streamlit dashboard for insightful sales analysis and forecasting.
+
+- 📊 **[Blinkit Sales Dashboard](https://github.com/mvharsh/Blinkit-Sales-Dashboard)**  
+  Power BI dashboard for data-driven decision-making.
+
+- 🐔 **[CluckCare – Chicken Disease Prediction](https://github.com/K-Senthil-Shunmugam/CluckCare)**  
+  A CNN-based deep learning system to detect chicken diseases.
+
+- 📚 **[Movie and Book Recommendations with Genre Mapping](https://github.com/mvharsh/Movie-and-Book-Recommendations)**  
+  A recommendation engine using Twitter Sentiment Analysis and Genre Mapping.
+
+- 🧵 **[Productivity Predictor for Garment Manufacturing](https://github.com/mvharsh/Productivity-Predictor)**  
+  Predicting productivity in garment manufacturing using ML and Flask.
+
+- 📈 **[Impact of Personality Traits on Academic Performance](https://github.com/mvharsh/Personality-and-Performance)**  
+  Regression and correlation analysis with the Big Five Model.
+
+- 🎓 **[Student Achievement Management System](https://github.com/mvharsh/Student-Achievement-Management-System)**  
+  A web-based tool to track academic progress.
+
+- 🎮 **[Quiz Game with OOPS and C++](https://github.com/mvharsh/Quiz-Game-cpp)**  
+  A fun quiz game built in C++ with object-oriented concepts.
 
 <h3 align="left">📊 Leetcode Stats:</h3>
 <p align="left">
