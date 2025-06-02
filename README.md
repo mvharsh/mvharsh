@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvharsh&label=Profile%20views&color=f81894&style=flat" alt="mvharsh" /> </p>
 
-[![Website Badge](https://img.shields.io/badge/-Portfolio-FF4B4B?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshini-vivek.github.io/harshinivivek.io/)](https://harshini-vivek.github.io/harshinivivek.io/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-FF4B4B?style=flat&logo=Google-Chrome&logoColor=white&link=https://harshinivivek.netlify.app/)](https://harshinivivek.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=InVision&logoColor=white)](https://www.linkedin.com/in/harshini-vivek/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshinivivekm@gmail.com)
 [![Github](https://img.shields.io/github/followers/mvharsh?label=Follow&style=social)](https://github.com/mvharsh)
