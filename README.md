@@ -213,7 +213,7 @@ Here’s a showcase of some of my key projects:
 - 📊 **[Blinkit Sales Dashboard](https://github.com/mvharsh/Blinkit-Sales-Dashboard)**  
   Power BI dashboard for data-driven decision-making.
 
-- 🐔 **[CluckCare – Chicken Disease Prediction](https://github.com/K-Senthil-Shunmugam/CluckCare)**  
+- 🐔 **[CluckCare – Chicken Disease Prediction](https://github.com/mvharsh/CluckCare)**  
   A CNN-based deep learning system to detect chicken diseases.
 
 - 📚 **[Movie and Book Recommendations with Genre Mapping](https://github.com/mvharsh/Movie-and-Book-Recommendations)**  
