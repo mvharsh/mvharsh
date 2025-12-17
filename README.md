@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi👋🏻, I'm Harshini</h1>
 
-<h3 align="center">A passionate Future Data Scientist 😎<img align="right" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" max-width="200" height="200"></h3>
+<h3 align="center"><img align="right" src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" max-width="200" height="200"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvharsh&label=Profile%20views&color=f81894&style=flat" alt="mvharsh" /> </p>
 
@@ -16,7 +16,7 @@
 
 ## 👋 Hey there! I'm **Harshini V** 👩‍💻  
 
-🔍 **Aspiring Data Scientist | AI & ML Enthusiast | Problem Solver**  
+🔍 **Aspiring Full Stack Developer | Data Science, AI & ML Enthusiast | Problem Solver**  
 
 ### 💡 My Key Skills
 
@@ -144,6 +144,7 @@ I’m always curious, ready to learn, and eager to contribute to exciting projec
 
 ### 🏆 Achievements
 
+- 🥇 First Place in Caterpillar Hackathon 2025 at Thiagarajar College of Engineering
 - 🥈 Second Place in Idea Harvest 2024 at Thiagarajar College of Engineering
 - 🥈 Second Place in Madurai Hackathon 2023 at Thiagarajar College of Engineering (Rs. 25,000 cash prize)
 - 🥉 Third Place in Madurai Hackathon 2022 at Solamalai College of Engineering (Rs. 12,000 cash prize)
@@ -189,6 +190,7 @@ I’m always curious, ready to learn, and eager to contribute to exciting projec
 ---
 ### 🛠️ Workshops & Events 📅
 
+- 💡 **IBM Workshop on Leveraging Artificial Intelligence and Generative AI**, AMCS, TCE (Sep 2024)
 - 💡 **DRDO Workshop on Explainable AI (XAI)**, AMCS, TCE (Dec 2024)
 - 💻 **CAT Hackathon 24**, Caterpillar, TCE (Jun 2024)
 - 🌟 **Idea Harvest 2024**, E-Cell, TCE (Mar 2024)
@@ -241,9 +243,9 @@ Here’s a showcase of some of my key projects:
 
 <h3 align="left">📊 Github Stats:</h3> <br/>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvharsh" alt="mvharsh" /></a> </p> -->
-<p><img src="https://github-profile-trophy.vercel.app/?username=mvharsh&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="mvharsh" /></p> 
+<!-- <p><img src="https://github-profile-trophy.vercel.app/?username=mvharsh&row=1&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="mvharsh" /></p>  -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvharsh&show_icons=true&locale=en&layout=compact&no-bg=true&theme=transparent" alt="mvharsh" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=mvharsh&show_icons=true&no-bg=true&theme=transparent" alt="mvharsh" max-width="175" height="165" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&no-bg=true&theme=transparent" alt="mvharsh" /></p>
+<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvharsh&no-bg=true&theme=transparent" alt="mvharsh" /></p> -->
 
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvharsh&theme=transparent" alt="mvharsh" /></p>
 
