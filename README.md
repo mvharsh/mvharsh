@@ -144,7 +144,7 @@ I’m always curious, ready to learn, and eager to contribute to exciting projec
 
 ### 🏆 Achievements
 
-- 🥇 First Place in Caterpillar Hackathon 2025 at Thiagarajar College of Engineering
+- 🥇 First Place in HACK-A-THON 2025 - Caterpillar Hackathon at Thiagarajar College of Engineering
 - 🥈 Second Place in Idea Harvest 2024 at Thiagarajar College of Engineering
 - 🥈 Second Place in Madurai Hackathon 2023 at Thiagarajar College of Engineering (Rs. 25,000 cash prize)
 - 🥉 Third Place in Madurai Hackathon 2022 at Solamalai College of Engineering (Rs. 12,000 cash prize)
